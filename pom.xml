@@ -72,6 +72,12 @@
 			<groupId>com.h2database</groupId>
 			<artifactId>h2</artifactId>
 		</dependency>
+
+<!--		<dependency>-->
+<!--			<groupId>org.jenkins.ci.plugins</groupId>-->
+<!--			<artifactId>radiatorviewplugin</artifactId>-->
+<!--			<version>1.29</version>-->
+<!--		</dependency>-->
 	</dependencies>
 
 	<build>
